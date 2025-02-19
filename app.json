@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "model3",
-    "slug": "model3",
+    "name": "State",
+    "slug": "State",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
